@@ -1,0 +1,57 @@
+PLAYER	School	HEIGHT	WEIGHT (POUNDS)	40-YARD DASH	HAND SIZE*	ARM LENGTH*	WINGSPAN
+Quinyon Mitchell	Toledo	6-0	195	4.33	75.75	31	9.25
+
+Kool-Aid McKinstry	Alabama	6-0	199		75.875	32	8.5
+
+Cooper DeJean	Iowa	6-1	203		74.875	31.375	9.625
+
+Kamren Kinchens	Miami (Fla.	6-0	203		75	31.25	9.75
+
+Tyler Nubin	Minnesota	6-1	199		77.5	32	9
+
+Kamari Lassiter	Georgia	6-0	186		73.75	30.875	8.875
+
+Javon Bullard	Georgia	5-11	198		73.875	30.75	9
+
+Calen Bullock	USC	6-2	188		78.125	32.5	9
+
+Dwight McGlothern	Arkansas	6-2	185	4.47	74.875	30.5	8.625
+
+T.J. Tampa	Iowa State	6-1	189		78.625	32.125	9.625
+
+Andru Phillips	Kentucky	5-11	190	4.48	75	31.25	8.75
+
+Max Melton	Rutgers	5-11	187	4.39	76.625	32.125	9.125
+
+Evan Williams	Oregon	5-11	200		72.875	30.125	10.125
+
+Daijahn Anthony	Ole Miss	6-1	195		76.375	32.5	9
+
+Demani Richardson	Texas A&M	6-1	210		77.125	32	9.875
+
+Kamal Hadden	Tennessee	6-1	196		74.125	30.875	8.5
+
+Elijah Jones 	Boston College	6-2	185	4.45	76	31.5	9.25
+
+Beau Brade 	Maryland	6-1 	203		77	31	10.125
+
+Decamerion Richardson	Mississippi State	6-2	188	4.34	77.875	32.375	8.875
+
+MJ Devonshire	Pittsburgh	5-11	186	4.45	78.75	32.875	8.75
+
+Josh Wallace	Michigan	5-11	185		75.625	31.375	8.875
+
+Willie Drew	Virginia State	6-0	191	4.48	75.625	32	9.5
+
+Josh Proctor	Ohio State	6-2	199		78	32	8.75
+
+Marcellas Dial	South Carolina	6-0	190	4.47	77.625	32	8.875
+
+Patrick McMorris	California	6-0	207		77.125	31.875	9.75
+
+Nook Bradford	TCU	5-11	191		72.5	31.25	9
+
+Jaylen Key	Alabama	6-1	208		78.5	32.25	9.625
+
+Christian Roland-Wallace	USC	6-0	201		77	31.5	9
+

@@ -1,0 +1,65 @@
+Player	College	Height	Weight (pounds)	40-yard dash	Wingspan*	Arm length*	Hand size*
+Quinyon Mitchell	Toledo	6-0	195	4.33	75.75	31	9.25
+Terrion Arnold	Alabama	6-0	189	4.51	76.25	31.625	8.875
+Nate Wiggins	Clemson	6-1	173	4.28	74.25	30.5	9
+Kool-Aid McKinstry	Alabama	6-0	199		75.875	32	8.5
+Ennis Rakestraw Jr.	Missouri	5-11 	183	4.54	75.625	32	8.5
+Kris Abrams-Draine	Missouri	5-11	179	4.44	74.625	31	8.625
+Cooper DeJean	Iowa	6-1	203		74.875	31.375	9.625
+Kamren Kinchens	Miami (Fla.	6-0	203		75	31.25	9.75
+Tyler Nubin	Minnesota	6-1	199		77.5	32	9
+Kamari Lassiter	Georgia	6-0	186		73.75	30.875	8.875
+Javon Bullard	Georgia	5-11	198		73.875	30.75	9
+Calen Bullock	USC	6-2	188		78.125	32.5	9
+Khyree Jackson	Oregon	6-1	194	4.5	78	32.75	9.25
+Dwight McGlothern	Arkansas	6-2	185	4.47	74.875	30.5	8.625
+Dadrion Taylor-Demerson	Texas Tech	5-10	197		74.25	30.875	9.625
+Jaden Hicks	Washington State	6-2	211		76.25	31.5	9.375
+T.J. Tampa	Iowa State	6-1	189		78.625	32.125	9.625
+Nehemiah Pritchett	Auburn	6-0	190	4.36	75	31.625	8.375
+Kalen King	Penn State	5-11	191	4.61	74.25	30.875	8.75
+DJ James	Auburn	6-0	175	4.43	72.375	31	8.375
+Tykee Smith	Georgia	5-10	202		74.5	31.625	9.25
+Jaylin Simpson	Auburn	6-0	179		76.625	32.375	9.875
+Andru Phillips	Kentucky	5-11	190	4.48	75	31.25	8.75
+Mike Sainristil	Michigan	5-10	182	4.47	74.5	30.875	8.5
+Josh Newton	TCU	5-11	190	4.52	74.25	31.125	9.25
+Max Melton	Rutgers	5-11	187	4.39	76.625	32.125	9.125
+Evan Williams	Oregon	5-11	200		72.875	30.125	10.125
+Daijahn Anthony	Ole Miss	6-1	195		76.375	32.5	9
+Kitan Oladapo	Oregon State	6-2	216		76.875	32.375	9.25
+Myles Harden	South Dakota	5-11	195	4.52	74	29.875	9.375
+Chau Smith-Wade	Washington State	5-10	184		72.375	30.25	9.125
+Demani Richardson	Texas A&M	6-1	210		77.125	32	9.875
+Cole Bishop	Utah	6-2	206		73	29.75	9.5
+Kamal Hadden	Tennessee	6-1	196		74.125	30.875	8.5
+Deantre Prince	Ole Miss	6-1	183	4.39	73.75	30.75	8.5
+Daequan Hardy	Penn State	5-9	179	4.39	70.875	30	8.125
+Sione Vaki	Utah	5-11	210		72.125	29.125	8.625
+Caelen Carson	Wake Forest	6-0	199		75.625	31.375	8.25
+Dominique Hampton	Washington	6-2	215		79.25	33.25	10
+Carlton Johnson	Fresno State	5-11	173		73.125	30.375	8
+Elijah Jones 	Boston College	6-2	185	4.45	76	31.5	9.25
+Jarvis Brownlee Jr. 	Louisville	5-10	194		75.25	31.25	9
+Jarrian Jones 	Florida State	6-0	190	4.38	73.25	30	8.625
+Beau Brade 	Maryland	6-1 	203		77	31	10.125
+Decamerion Richardson	Mississippi State	6-2	188	4.34	77.875	32.375	8.875
+Malik Mustapha	Wake Forest	5-10	209		72.5	30.125	9
+MJ Devonshire	Pittsburgh	5-11	186	4.45	78.75	32.875	8.75
+Renardo Green	Florida State	6-0	186	4.54	74.75	31.25	9.125
+Ryan Watts	Texas	6-3	208	4.54	81.75	34.5	9.375
+Ro Torrence	Arizona State	6-3	208		80.25	34.125	8.5
+Josh Wallace	Michigan	5-11	185		75.625	31.375	8.875
+Willie Drew	Virginia State	6-0	191	4.48	75.625	32	9.5
+Tarheeb Still	Maryland	6-0	189	4.52	73.125	29.625	9.125
+Tyler Owens	Texas Tech	6-2	216		79.125	33.375	9.125
+Jaylon Carlies	Missouri	6-3	227		80.625	34.25	10
+Josh Proctor	Ohio State	6-2	199		78	32	8.75
+Cam Hart	Notre Dame	6-3	202		78.875	33	9.375
+Marcellas Dial	South Carolina	6-0	190	4.47	77.625	32	8.875
+Patrick McMorris	California	6-0	207		77.125	31.875	9.75
+Nook Bradford	TCU	5-11	191		72.5	31.25	9
+Jaylen Key	Alabama	6-1	208		78.5	32.25	9.625
+Christian Roland-Wallace	USC	6-0	201		77	31.5	9
+Isaiah Johnson	Syracuse	6-0	205	4.64	80.5	32.875	8.875
+Andre Sam	LSU	5-11	191		73.375	30	9.25

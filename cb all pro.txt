@@ -1,0 +1,18 @@
+Player	Height	Weight 	Arm length(inch)	Handspan(inch)	40 yd 	vert jump	broad jump	three cone (s) 	20 yd shuffle 	Age 	Bench press	10 yd 
+Jalen Ramsey	73	209	33.375	9.5	4.41	41.5	135	6.94	4.18	21	14	1.51
+Trevon Diggs  	73	205	32.75	9.375	4.42							
+AJ Terrel	73	195	31.25	9	4.42	34.5	129	7.12	2.47	21	15	1.55
+JC Jackson	70	201	31.5	8.125	4.46	35.5	120			22		1.54
+Sauce Gardner	75	190	33.5	9.625	4.41					21		1.54
+Jaire Alexander	70	196	31.125	9.5	4.38	35	127	6.75	3.98	21	14	1.52
+James Bradberry	73	211	33.375	9.125	4.5	36	124	6.91	4.21	23	16	1.53
+Patrick Surtain 2	74	208	32.5	10	4.42	39	131		2.6	23	18	1.57
+Jaylon Johnson 	72	193	31.375	9.375	4.5	36.5	124	7.01	4.13		15	1.59
+Daron Bland 	72	197		9	4.48	35.5	123	7.26	4.15		14	1.55
+Derek Stingley Jr.	72	190	30.625	9.625	4.37	38.5	122					
+Charvarius Ward	73	198	32.25	10.125	4.45	37.5	132	7.52	4.56		12	1.71
+Christian Benford	72	208	31	9.75	4.53	35	124	7.1	4.34		17	1.51
+Kendall Fuller 	71	187	31.5	10							15	
+Average 	72.35714286	199.1428571	32.00961538	9.4375	4.442307692	36.77272727	126.4545455	7.07625	3.846666667	21.71428571	15	1.556363636
+
+
